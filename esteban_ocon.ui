@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Esteban_ocon</class>
+ <widget class="QDialog" name="Esteban_ocon">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Alpine: Esteban Ocon</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="Resources.qrc">
+    <normaloff>:/jpg/Zdjecia/Alpine_F1_Team_Logo.svg.png</normaloff>:/jpg/Zdjecia/Alpine_F1_Team_Logo.svg.png</iconset>
+  </property>
+ </widget>
+ <resources>
+  <include location="Resources.qrc"/>
+ </resources>
+ <connections/>
+</ui>

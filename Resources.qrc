@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/jpg">
+        <file>Zdjecia/56x56.png</file>
+        <file>Zdjecia/1610642928926.png</file>
+        <file>Zdjecia/Alfaracing.png</file>
+        <file>Zdjecia/Alpine_F1_Team_Logo.svg.png</file>
+        <file>Zdjecia/F1.svg.png</file>
+        <file>Zdjecia/f11.jpg</file>
+        <file>Zdjecia/f12.jpg</file>
+        <file>Zdjecia/f13.jpg</file>
+        <file>Zdjecia/f14.jpg</file>
+        <file>Zdjecia/f164.png</file>
+        <file>Zdjecia/F1500.png</file>
+        <file>Zdjecia/f14128.jpg</file>
+        <file>Zdjecia/f14164.jpg</file>
+        <file>Zdjecia/Ferrari.png</file>
+        <file>Zdjecia/Logo_Williams_F1.png</file>
+        <file>Zdjecia/mclaren-f1-team-logo-1.jpg</file>
+        <file>Zdjecia/Mercedes.png</file>
+        <file>Zdjecia/Red Bull.jpg</file>
+        <file>Zdjecia/Scuderia_Alpha-Tauri.svg.png</file>
+        <file>Zdjecia/Uralkali_Haas_F1_Team_Logo.svg.png</file>
+        <file>Zdjecia/1024px-Austin_circuit.svg.png</file>
+        <file>Zdjecia/Austin.png</file>
+        <file>Zdjecia/124010.png</file>
+        <file>Zdjecia/1590430652red-youtube-logo-png-xl.png</file>
+        <file>Zdjecia/twitter-logo-vector-png-clipart-1.png</file>
+    </qresource>
+</RCC>
