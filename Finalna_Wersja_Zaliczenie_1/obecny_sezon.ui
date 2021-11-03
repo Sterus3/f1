@@ -1,0 +1,2892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Obecny_sezon</class>
+ <widget class="QDialog" name="Obecny_sezon">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1060</width>
+    <height>640</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>1060</width>
+    <height>640</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>1060</width>
+    <height>640</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Obecny Sezon</string>
+  </property>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1061</width>
+     <height>641</height>
+    </rect>
+   </property>
+   <row>
+    <property name="text">
+     <string>1</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>2</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>3</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>4</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>5</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>6</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>7</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>8</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>9</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>10</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>11</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>12</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>13</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>14</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>15</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>16</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>17</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>18</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>19</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>20</string>
+    </property>
+   </row>
+   <column>
+    <property name="text">
+     <string>Kierowca</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Zespół</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="textAlignment">
+     <set>AlignCenter</set>
+    </property>
+    <property name="icon">
+     <iconset resource="Zdjecia.qrc">
+      <normaloff>:/new/prefix1/Zdjecia/bh.jpg</normaloff>:/new/prefix1/Zdjecia/bh.jpg</iconset>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="Zdjecia.qrc">
+      <normaloff>:/new/prefix1/Zdjecia/it.jpg</normaloff>:/new/prefix1/Zdjecia/it.jpg</iconset>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="Zdjecia.qrc">
+      <normaloff>:/new/prefix1/Zdjecia/pt.jpg</normaloff>:/new/prefix1/Zdjecia/pt.jpg</iconset>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="Zdjecia.qrc">
+      <normaloff>:/new/prefix1/Zdjecia/es.jpg</normaloff>:/new/prefix1/Zdjecia/es.jpg</iconset>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="Zdjecia.qrc">
+      <normaloff>:/new/prefix1/Zdjecia/mc.jpg</normaloff>:/new/prefix1/Zdjecia/mc.jpg</iconset>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="Zdjecia.qrc">
+      <normaloff>:/new/prefix1/Zdjecia/az.jpg</normaloff>:/new/prefix1/Zdjecia/az.jpg</iconset>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="Zdjecia.qrc">
+      <normaloff>:/new/prefix1/Zdjecia/fr.jpg</normaloff>:/new/prefix1/Zdjecia/fr.jpg</iconset>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="Zdjecia.qrc">
+      <normaloff>:/new/prefix1/Zdjecia/at.jpg</normaloff>:/new/prefix1/Zdjecia/at.jpg</iconset>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="Zdjecia.qrc">
+      <normaloff>:/new/prefix1/Zdjecia/at.jpg</normaloff>:/new/prefix1/Zdjecia/at.jpg</iconset>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="Zdjecia.qrc">
+      <normaloff>:/new/prefix1/Zdjecia/gb.jpg</normaloff>:/new/prefix1/Zdjecia/gb.jpg</iconset>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="Zdjecia.qrc">
+      <normaloff>:/new/prefix1/Zdjecia/hu.jpg</normaloff>:/new/prefix1/Zdjecia/hu.jpg</iconset>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="Zdjecia.qrc">
+      <normaloff>:/new/prefix1/Zdjecia/be.jpg</normaloff>:/new/prefix1/Zdjecia/be.jpg</iconset>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="Zdjecia.qrc">
+      <normaloff>:/new/prefix1/Zdjecia/nl.jpg</normaloff>:/new/prefix1/Zdjecia/nl.jpg</iconset>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="Zdjecia.qrc">
+      <normaloff>:/new/prefix1/Zdjecia/it.jpg</normaloff>:/new/prefix1/Zdjecia/it.jpg</iconset>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="Zdjecia.qrc">
+      <normaloff>:/new/prefix1/Zdjecia/ru.jpg</normaloff>:/new/prefix1/Zdjecia/ru.jpg</iconset>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="Zdjecia.qrc">
+      <normaloff>:/new/prefix1/Zdjecia/tr.jpg</normaloff>:/new/prefix1/Zdjecia/tr.jpg</iconset>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="Zdjecia.qrc">
+      <normaloff>:/new/prefix1/Zdjecia/us.jpg</normaloff>:/new/prefix1/Zdjecia/us.jpg</iconset>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="Zdjecia.qrc">
+      <normaloff>:/new/prefix1/Zdjecia/mx.jpg</normaloff>:/new/prefix1/Zdjecia/mx.jpg</iconset>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="Zdjecia.qrc">
+      <normaloff>:/new/prefix1/Zdjecia/br.jpg</normaloff>:/new/prefix1/Zdjecia/br.jpg</iconset>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="Zdjecia.qrc">
+      <normaloff>:/new/prefix1/Zdjecia/qa.jpg</normaloff>:/new/prefix1/Zdjecia/qa.jpg</iconset>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="Zdjecia.qrc">
+      <normaloff>:/new/prefix1/Zdjecia/sa.jpg</normaloff>:/new/prefix1/Zdjecia/sa.jpg</iconset>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="Zdjecia.qrc">
+      <normaloff>:/new/prefix1/Zdjecia/ae.jpg</normaloff>:/new/prefix1/Zdjecia/ae.jpg</iconset>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Pkt.</string>
+    </property>
+   </column>
+   <item row="0" column="0">
+    <property name="text">
+     <string>Max Verstappen</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>255</red>
+       <green>255</green>
+       <blue>0</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="0" column="1">
+    <property name="text">
+     <string>Red Bull</string>
+    </property>
+   </item>
+   <item row="0" column="2">
+    <property name="text">
+     <string>2</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>136</red>
+       <green>136</green>
+       <blue>136</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="0" column="3">
+    <property name="text">
+     <string>1</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>255</red>
+       <green>255</green>
+       <blue>0</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="0" column="4">
+    <property name="text">
+     <string>2</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>136</red>
+       <green>136</green>
+       <blue>136</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="0" column="5">
+    <property name="text">
+     <string>2</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>136</red>
+       <green>136</green>
+       <blue>136</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="0" column="6">
+    <property name="text">
+     <string>1</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>255</red>
+       <green>255</green>
+       <blue>0</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="0" column="7">
+    <property name="text">
+     <string>18</string>
+    </property>
+   </item>
+   <item row="0" column="8">
+    <property name="text">
+     <string>1</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>255</red>
+       <green>255</green>
+       <blue>0</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="0" column="9">
+    <property name="text">
+     <string>1</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>255</red>
+       <green>255</green>
+       <blue>0</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="0" column="10">
+    <property name="text">
+     <string>1</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>255</red>
+       <green>255</green>
+       <blue>0</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="0" column="11">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="0" column="12">
+    <property name="text">
+     <string>9</string>
+    </property>
+   </item>
+   <item row="0" column="13">
+    <property name="text">
+     <string>1</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>255</red>
+       <green>255</green>
+       <blue>0</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="0" column="14">
+    <property name="text">
+     <string>1</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>255</red>
+       <green>255</green>
+       <blue>0</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="0" column="15">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="0" column="16">
+    <property name="text">
+     <string>2</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>136</red>
+       <green>136</green>
+       <blue>136</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="0" column="17">
+    <property name="text">
+     <string>2</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>136</red>
+       <green>136</green>
+       <blue>136</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="0" column="18">
+    <property name="text">
+     <string>1</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>255</red>
+       <green>255</green>
+       <blue>0</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="0" column="24">
+    <property name="text">
+     <string>287,5</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>255</red>
+       <green>255</green>
+       <blue>0</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="1" column="0">
+    <property name="text">
+     <string>Lewis Hamilton</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>136</red>
+       <green>136</green>
+       <blue>136</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="1" column="1">
+    <property name="text">
+     <string>Mercedes</string>
+    </property>
+   </item>
+   <item row="1" column="2">
+    <property name="text">
+     <string>1</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>255</red>
+       <green>255</green>
+       <blue>0</blue>
+      </color>
+     </brush>
+    </property>
+    <property name="foreground">
+     <brush brushstyle="NoBrush">
+      <color alpha="255">
+       <red>0</red>
+       <green>0</green>
+       <blue>0</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="1" column="3">
+    <property name="text">
+     <string>2</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>136</red>
+       <green>136</green>
+       <blue>136</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="1" column="4">
+    <property name="text">
+     <string>1</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>255</red>
+       <green>255</green>
+       <blue>0</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="1" column="5">
+    <property name="text">
+     <string>1</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>255</red>
+       <green>255</green>
+       <blue>0</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="1" column="6">
+    <property name="text">
+     <string>7</string>
+    </property>
+   </item>
+   <item row="1" column="7">
+    <property name="text">
+     <string>15</string>
+    </property>
+   </item>
+   <item row="1" column="8">
+    <property name="text">
+     <string>2</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>136</red>
+       <green>136</green>
+       <blue>136</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="1" column="9">
+    <property name="text">
+     <string>2</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>136</red>
+       <green>136</green>
+       <blue>136</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="1" column="10">
+    <property name="text">
+     <string>4</string>
+    </property>
+   </item>
+   <item row="1" column="11">
+    <property name="text">
+     <string>1</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>255</red>
+       <green>255</green>
+       <blue>0</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="1" column="12">
+    <property name="text">
+     <string>2</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>136</red>
+       <green>136</green>
+       <blue>136</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="1" column="13">
+    <property name="text">
+     <string>3</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>91</red>
+       <green>53</green>
+       <blue>35</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="1" column="14">
+    <property name="text">
+     <string>2</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>136</red>
+       <green>136</green>
+       <blue>136</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="1" column="15">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="1" column="16">
+    <property name="text">
+     <string>1</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>255</red>
+       <green>255</green>
+       <blue>0</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="1" column="17">
+    <property name="text">
+     <string>5</string>
+    </property>
+   </item>
+   <item row="1" column="18">
+    <property name="text">
+     <string>2</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>136</red>
+       <green>136</green>
+       <blue>136</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="1" column="24">
+    <property name="text">
+     <string>275,5</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>136</red>
+       <green>136</green>
+       <blue>136</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="2" column="0">
+    <property name="text">
+     <string>Valtteri Bottas</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>91</red>
+       <green>53</green>
+       <blue>35</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="2" column="1">
+    <property name="text">
+     <string>Mercedes</string>
+    </property>
+   </item>
+   <item row="2" column="2">
+    <property name="text">
+     <string>3</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>91</red>
+       <green>53</green>
+       <blue>35</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="2" column="3">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="2" column="4">
+    <property name="text">
+     <string>3</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>91</red>
+       <green>53</green>
+       <blue>35</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="2" column="5">
+    <property name="text">
+     <string>3</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>91</red>
+       <green>53</green>
+       <blue>35</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="2" column="6">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="2" column="7">
+    <property name="text">
+     <string>12</string>
+    </property>
+   </item>
+   <item row="2" column="8">
+    <property name="text">
+     <string>4</string>
+    </property>
+   </item>
+   <item row="2" column="9">
+    <property name="text">
+     <string>3</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>91</red>
+       <green>53</green>
+       <blue>35</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="2" column="10">
+    <property name="text">
+     <string>2</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>136</red>
+       <green>136</green>
+       <blue>136</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="2" column="11">
+    <property name="text">
+     <string>3</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>91</red>
+       <green>53</green>
+       <blue>35</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="2" column="12">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="2" column="13">
+    <property name="text">
+     <string>12</string>
+    </property>
+   </item>
+   <item row="2" column="14">
+    <property name="text">
+     <string>3</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>91</red>
+       <green>53</green>
+       <blue>35</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="2" column="15">
+    <property name="text">
+     <string>3</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>91</red>
+       <green>53</green>
+       <blue>35</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="2" column="16">
+    <property name="text">
+     <string>5</string>
+    </property>
+   </item>
+   <item row="2" column="17">
+    <property name="text">
+     <string>1</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>255</red>
+       <green>255</green>
+       <blue>0</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="2" column="18">
+    <property name="text">
+     <string>6</string>
+    </property>
+   </item>
+   <item row="2" column="24">
+    <property name="text">
+     <string>185</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>91</red>
+       <green>53</green>
+       <blue>35</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="3" column="0">
+    <property name="text">
+     <string>Sergio Perez</string>
+    </property>
+   </item>
+   <item row="3" column="1">
+    <property name="text">
+     <string>Red Bull</string>
+    </property>
+   </item>
+   <item row="3" column="2">
+    <property name="text">
+     <string>5</string>
+    </property>
+   </item>
+   <item row="3" column="3">
+    <property name="text">
+     <string>11</string>
+    </property>
+   </item>
+   <item row="3" column="4">
+    <property name="text">
+     <string>4</string>
+    </property>
+   </item>
+   <item row="3" column="5">
+    <property name="text">
+     <string>5</string>
+    </property>
+   </item>
+   <item row="3" column="6">
+    <property name="text">
+     <string>4</string>
+    </property>
+   </item>
+   <item row="3" column="7">
+    <property name="text">
+     <string>1</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>255</red>
+       <green>255</green>
+       <blue>0</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="3" column="8">
+    <property name="text">
+     <string>3</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>91</red>
+       <green>53</green>
+       <blue>35</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="3" column="9">
+    <property name="text">
+     <string>4</string>
+    </property>
+   </item>
+   <item row="3" column="10">
+    <property name="text">
+     <string>6</string>
+    </property>
+   </item>
+   <item row="3" column="11">
+    <property name="text">
+     <string>16</string>
+    </property>
+   </item>
+   <item row="3" column="12">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="3" column="13">
+    <property name="text">
+     <string>19</string>
+    </property>
+   </item>
+   <item row="3" column="14">
+    <property name="text">
+     <string>8</string>
+    </property>
+   </item>
+   <item row="3" column="15">
+    <property name="text">
+     <string>5</string>
+    </property>
+   </item>
+   <item row="3" column="16">
+    <property name="text">
+     <string>9</string>
+    </property>
+   </item>
+   <item row="3" column="17">
+    <property name="text">
+     <string>3</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>91</red>
+       <green>53</green>
+       <blue>35</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="3" column="18">
+    <property name="text">
+     <string>3</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>91</red>
+       <green>53</green>
+       <blue>35</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="3" column="24">
+    <property name="text">
+     <string>150</string>
+    </property>
+   </item>
+   <item row="4" column="0">
+    <property name="text">
+     <string>Lando Norris</string>
+    </property>
+   </item>
+   <item row="4" column="1">
+    <property name="text">
+     <string>McLaren</string>
+    </property>
+   </item>
+   <item row="4" column="2">
+    <property name="text">
+     <string>4</string>
+    </property>
+   </item>
+   <item row="4" column="3">
+    <property name="text">
+     <string>3</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>91</red>
+       <green>53</green>
+       <blue>35</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="4" column="4">
+    <property name="text">
+     <string>5</string>
+    </property>
+   </item>
+   <item row="4" column="5">
+    <property name="text">
+     <string>8</string>
+    </property>
+   </item>
+   <item row="4" column="6">
+    <property name="text">
+     <string>3</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>91</red>
+       <green>53</green>
+       <blue>35</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="4" column="7">
+    <property name="text">
+     <string>5</string>
+    </property>
+   </item>
+   <item row="4" column="8">
+    <property name="text">
+     <string>5</string>
+    </property>
+   </item>
+   <item row="4" column="9">
+    <property name="text">
+     <string>5</string>
+    </property>
+   </item>
+   <item row="4" column="10">
+    <property name="text">
+     <string>3</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>91</red>
+       <green>53</green>
+       <blue>35</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="4" column="11">
+    <property name="text">
+     <string>4</string>
+    </property>
+   </item>
+   <item row="4" column="12">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="4" column="13">
+    <property name="text">
+     <string>14</string>
+    </property>
+   </item>
+   <item row="4" column="14">
+    <property name="text">
+     <string>10</string>
+    </property>
+   </item>
+   <item row="4" column="15">
+    <property name="text">
+     <string>2</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>136</red>
+       <green>136</green>
+       <blue>136</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="4" column="16">
+    <property name="text">
+     <string>7</string>
+    </property>
+   </item>
+   <item row="4" column="17">
+    <property name="text">
+     <string>7</string>
+    </property>
+   </item>
+   <item row="4" column="18">
+    <property name="text">
+     <string>8</string>
+    </property>
+   </item>
+   <item row="4" column="24">
+    <property name="text">
+     <string>149</string>
+    </property>
+   </item>
+   <item row="5" column="0">
+    <property name="text">
+     <string>Charles Leclerc</string>
+    </property>
+   </item>
+   <item row="5" column="1">
+    <property name="text">
+     <string>Ferrari</string>
+    </property>
+   </item>
+   <item row="5" column="2">
+    <property name="text">
+     <string>6</string>
+    </property>
+   </item>
+   <item row="5" column="3">
+    <property name="text">
+     <string>4</string>
+    </property>
+   </item>
+   <item row="5" column="4">
+    <property name="text">
+     <string>6</string>
+    </property>
+   </item>
+   <item row="5" column="5">
+    <property name="text">
+     <string>4</string>
+    </property>
+   </item>
+   <item row="5" column="6">
+    <property name="text">
+     <string>NW</string>
+    </property>
+   </item>
+   <item row="5" column="7">
+    <property name="text">
+     <string>4</string>
+    </property>
+   </item>
+   <item row="5" column="8">
+    <property name="text">
+     <string>16</string>
+    </property>
+   </item>
+   <item row="5" column="9">
+    <property name="text">
+     <string>7</string>
+    </property>
+   </item>
+   <item row="5" column="10">
+    <property name="text">
+     <string>8</string>
+    </property>
+   </item>
+   <item row="5" column="11">
+    <property name="text">
+     <string>2</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>136</red>
+       <green>136</green>
+       <blue>136</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="5" column="12">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="5" column="13">
+    <property name="text">
+     <string>8</string>
+    </property>
+   </item>
+   <item row="5" column="14">
+    <property name="text">
+     <string>5</string>
+    </property>
+   </item>
+   <item row="5" column="15">
+    <property name="text">
+     <string>4</string>
+    </property>
+   </item>
+   <item row="5" column="16">
+    <property name="text">
+     <string>15</string>
+    </property>
+   </item>
+   <item row="5" column="17">
+    <property name="text">
+     <string>4</string>
+    </property>
+   </item>
+   <item row="5" column="18">
+    <property name="text">
+     <string>4</string>
+    </property>
+   </item>
+   <item row="5" column="24">
+    <property name="text">
+     <string>128</string>
+    </property>
+   </item>
+   <item row="6" column="0">
+    <property name="text">
+     <string>Carlos Sainz Jr.</string>
+    </property>
+   </item>
+   <item row="6" column="1">
+    <property name="text">
+     <string>Ferrari</string>
+    </property>
+   </item>
+   <item row="6" column="2">
+    <property name="text">
+     <string>8</string>
+    </property>
+   </item>
+   <item row="6" column="3">
+    <property name="text">
+     <string>5</string>
+    </property>
+   </item>
+   <item row="6" column="4">
+    <property name="text">
+     <string>11</string>
+    </property>
+   </item>
+   <item row="6" column="5">
+    <property name="text">
+     <string>7</string>
+    </property>
+   </item>
+   <item row="6" column="6">
+    <property name="text">
+     <string>2</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>136</red>
+       <green>136</green>
+       <blue>136</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="6" column="7">
+    <property name="text">
+     <string>8</string>
+    </property>
+   </item>
+   <item row="6" column="8">
+    <property name="text">
+     <string>11</string>
+    </property>
+   </item>
+   <item row="6" column="9">
+    <property name="text">
+     <string>6</string>
+    </property>
+   </item>
+   <item row="6" column="10">
+    <property name="text">
+     <string>5</string>
+    </property>
+   </item>
+   <item row="6" column="11">
+    <property name="text">
+     <string>6</string>
+    </property>
+   </item>
+   <item row="6" column="12">
+    <property name="text">
+     <string>3</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>91</red>
+       <green>53</green>
+       <blue>35</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="6" column="13">
+    <property name="text">
+     <string>10</string>
+    </property>
+   </item>
+   <item row="6" column="14">
+    <property name="text">
+     <string>7</string>
+    </property>
+   </item>
+   <item row="6" column="15">
+    <property name="text">
+     <string>6</string>
+    </property>
+   </item>
+   <item row="6" column="16">
+    <property name="text">
+     <string>3</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>91</red>
+       <green>53</green>
+       <blue>35</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="6" column="17">
+    <property name="text">
+     <string>8</string>
+    </property>
+   </item>
+   <item row="6" column="18">
+    <property name="text">
+     <string>7</string>
+    </property>
+   </item>
+   <item row="6" column="24">
+    <property name="text">
+     <string>122,5</string>
+    </property>
+   </item>
+   <item row="7" column="0">
+    <property name="text">
+     <string>Daniel Riccardo</string>
+    </property>
+   </item>
+   <item row="7" column="1">
+    <property name="text">
+     <string>McLaren</string>
+    </property>
+   </item>
+   <item row="7" column="2">
+    <property name="text">
+     <string>7</string>
+    </property>
+   </item>
+   <item row="7" column="3">
+    <property name="text">
+     <string>6</string>
+    </property>
+   </item>
+   <item row="7" column="4">
+    <property name="text">
+     <string>9</string>
+    </property>
+   </item>
+   <item row="7" column="5">
+    <property name="text">
+     <string>6</string>
+    </property>
+   </item>
+   <item row="7" column="6">
+    <property name="text">
+     <string>12</string>
+    </property>
+   </item>
+   <item row="7" column="7">
+    <property name="text">
+     <string>9</string>
+    </property>
+   </item>
+   <item row="7" column="8">
+    <property name="text">
+     <string>6</string>
+    </property>
+   </item>
+   <item row="7" column="9">
+    <property name="text">
+     <string>13</string>
+    </property>
+   </item>
+   <item row="7" column="10">
+    <property name="text">
+     <string>7</string>
+    </property>
+   </item>
+   <item row="7" column="11">
+    <property name="text">
+     <string>5</string>
+    </property>
+   </item>
+   <item row="7" column="12">
+    <property name="text">
+     <string>11</string>
+    </property>
+   </item>
+   <item row="7" column="13">
+    <property name="text">
+     <string>4</string>
+    </property>
+   </item>
+   <item row="7" column="14">
+    <property name="text">
+     <string>11</string>
+    </property>
+   </item>
+   <item row="7" column="15">
+    <property name="text">
+     <string>1</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>255</red>
+       <green>255</green>
+       <blue>0</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="7" column="16">
+    <property name="text">
+     <string>4</string>
+    </property>
+   </item>
+   <item row="7" column="17">
+    <property name="text">
+     <string>13</string>
+    </property>
+   </item>
+   <item row="7" column="18">
+    <property name="text">
+     <string>5</string>
+    </property>
+   </item>
+   <item row="7" column="24">
+    <property name="text">
+     <string>105</string>
+    </property>
+   </item>
+   <item row="8" column="0">
+    <property name="text">
+     <string>Pierre Gasly</string>
+    </property>
+   </item>
+   <item row="8" column="1">
+    <property name="text">
+     <string>Alpha Tauri</string>
+    </property>
+   </item>
+   <item row="8" column="2">
+    <property name="text">
+     <string>17</string>
+    </property>
+   </item>
+   <item row="8" column="3">
+    <property name="text">
+     <string>7</string>
+    </property>
+   </item>
+   <item row="8" column="4">
+    <property name="text">
+     <string>10</string>
+    </property>
+   </item>
+   <item row="8" column="5">
+    <property name="text">
+     <string>10</string>
+    </property>
+   </item>
+   <item row="8" column="6">
+    <property name="text">
+     <string>6</string>
+    </property>
+   </item>
+   <item row="8" column="7">
+    <property name="text">
+     <string>3</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>91</red>
+       <green>53</green>
+       <blue>35</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="8" column="8">
+    <property name="text">
+     <string>7</string>
+    </property>
+   </item>
+   <item row="8" column="9">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="8" column="10">
+    <property name="text">
+     <string>9</string>
+    </property>
+   </item>
+   <item row="8" column="11">
+    <property name="text">
+     <string>11</string>
+    </property>
+   </item>
+   <item row="8" column="12">
+    <property name="text">
+     <string>5</string>
+    </property>
+   </item>
+   <item row="8" column="13">
+    <property name="text">
+     <string>6</string>
+    </property>
+   </item>
+   <item row="8" column="14">
+    <property name="text">
+     <string>4</string>
+    </property>
+   </item>
+   <item row="8" column="15">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="8" column="16">
+    <property name="text">
+     <string>13</string>
+    </property>
+   </item>
+   <item row="8" column="17">
+    <property name="text">
+     <string>6</string>
+    </property>
+   </item>
+   <item row="8" column="18">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="8" column="24">
+    <property name="text">
+     <string>74</string>
+    </property>
+   </item>
+   <item row="9" column="0">
+    <property name="text">
+     <string>Fernando Alonso</string>
+    </property>
+   </item>
+   <item row="9" column="1">
+    <property name="text">
+     <string>Alpine</string>
+    </property>
+   </item>
+   <item row="9" column="2">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="9" column="3">
+    <property name="text">
+     <string>10</string>
+    </property>
+   </item>
+   <item row="9" column="4">
+    <property name="text">
+     <string>8</string>
+    </property>
+   </item>
+   <item row="9" column="5">
+    <property name="text">
+     <string>17</string>
+    </property>
+   </item>
+   <item row="9" column="6">
+    <property name="text">
+     <string>13</string>
+    </property>
+   </item>
+   <item row="9" column="7">
+    <property name="text">
+     <string>6</string>
+    </property>
+   </item>
+   <item row="9" column="8">
+    <property name="text">
+     <string>8</string>
+    </property>
+   </item>
+   <item row="9" column="9">
+    <property name="text">
+     <string>9</string>
+    </property>
+   </item>
+   <item row="9" column="10">
+    <property name="text">
+     <string>10</string>
+    </property>
+   </item>
+   <item row="9" column="11">
+    <property name="text">
+     <string>7</string>
+    </property>
+   </item>
+   <item row="9" column="12">
+    <property name="text">
+     <string>4</string>
+    </property>
+   </item>
+   <item row="9" column="13">
+    <property name="text">
+     <string>11</string>
+    </property>
+   </item>
+   <item row="9" column="14">
+    <property name="text">
+     <string>6</string>
+    </property>
+   </item>
+   <item row="9" column="15">
+    <property name="text">
+     <string>8</string>
+    </property>
+   </item>
+   <item row="9" column="16">
+    <property name="text">
+     <string>6</string>
+    </property>
+   </item>
+   <item row="9" column="17">
+    <property name="text">
+     <string>16</string>
+    </property>
+   </item>
+   <item row="9" column="18">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="9" column="24">
+    <property name="text">
+     <string>58</string>
+    </property>
+   </item>
+   <item row="10" column="0">
+    <property name="text">
+     <string>Esteban Ocon</string>
+    </property>
+   </item>
+   <item row="10" column="1">
+    <property name="text">
+     <string>Alpine</string>
+    </property>
+   </item>
+   <item row="10" column="2">
+    <property name="text">
+     <string>13</string>
+    </property>
+   </item>
+   <item row="10" column="3">
+    <property name="text">
+     <string>9</string>
+    </property>
+   </item>
+   <item row="10" column="4">
+    <property name="text">
+     <string>7</string>
+    </property>
+   </item>
+   <item row="10" column="5">
+    <property name="text">
+     <string>9</string>
+    </property>
+   </item>
+   <item row="10" column="6">
+    <property name="text">
+     <string>9</string>
+    </property>
+   </item>
+   <item row="10" column="7">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="10" column="8">
+    <property name="text">
+     <string>14</string>
+    </property>
+   </item>
+   <item row="10" column="9">
+    <property name="text">
+     <string>14</string>
+    </property>
+   </item>
+   <item row="10" column="10">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="10" column="11">
+    <property name="text">
+     <string>9</string>
+    </property>
+   </item>
+   <item row="10" column="12">
+    <property name="text">
+     <string>1</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>255</red>
+       <green>255</green>
+       <blue>0</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="10" column="13">
+    <property name="text">
+     <string>7</string>
+    </property>
+   </item>
+   <item row="10" column="14">
+    <property name="text">
+     <string>9</string>
+    </property>
+   </item>
+   <item row="10" column="15">
+    <property name="text">
+     <string>10</string>
+    </property>
+   </item>
+   <item row="10" column="16">
+    <property name="text">
+     <string>14</string>
+    </property>
+   </item>
+   <item row="10" column="17">
+    <property name="text">
+     <string>10</string>
+    </property>
+   </item>
+   <item row="10" column="18">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="10" column="24">
+    <property name="text">
+     <string>46</string>
+    </property>
+   </item>
+   <item row="11" column="0">
+    <property name="text">
+     <string>Sebastian Vettel</string>
+    </property>
+   </item>
+   <item row="11" column="1">
+    <property name="text">
+     <string>Aston Martin</string>
+    </property>
+   </item>
+   <item row="11" column="2">
+    <property name="text">
+     <string>15</string>
+    </property>
+   </item>
+   <item row="11" column="3">
+    <property name="text">
+     <string>15</string>
+    </property>
+   </item>
+   <item row="11" column="4">
+    <property name="text">
+     <string>13</string>
+    </property>
+   </item>
+   <item row="11" column="5">
+    <property name="text">
+     <string>13</string>
+    </property>
+   </item>
+   <item row="11" column="6">
+    <property name="text">
+     <string>5</string>
+    </property>
+   </item>
+   <item row="11" column="7">
+    <property name="text">
+     <string>2</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>136</red>
+       <green>136</green>
+       <blue>136</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="11" column="8">
+    <property name="text">
+     <string>9</string>
+    </property>
+   </item>
+   <item row="11" column="9">
+    <property name="text">
+     <string>12</string>
+    </property>
+   </item>
+   <item row="11" column="10">
+    <property name="text">
+     <string>17</string>
+    </property>
+   </item>
+   <item row="11" column="11">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="11" column="12">
+    <property name="text">
+     <string>DK</string>
+    </property>
+   </item>
+   <item row="11" column="13">
+    <property name="text">
+     <string>5</string>
+    </property>
+   </item>
+   <item row="11" column="14">
+    <property name="text">
+     <string>13</string>
+    </property>
+   </item>
+   <item row="11" column="15">
+    <property name="text">
+     <string>12</string>
+    </property>
+   </item>
+   <item row="11" column="16">
+    <property name="text">
+     <string>12</string>
+    </property>
+   </item>
+   <item row="11" column="17">
+    <property name="text">
+     <string>18</string>
+    </property>
+   </item>
+   <item row="11" column="18">
+    <property name="text">
+     <string>10</string>
+    </property>
+   </item>
+   <item row="11" column="24">
+    <property name="text">
+     <string>36</string>
+    </property>
+   </item>
+   <item row="12" column="0">
+    <property name="text">
+     <string>Lance Stroll</string>
+    </property>
+   </item>
+   <item row="12" column="1">
+    <property name="text">
+     <string>Aston Martin</string>
+    </property>
+   </item>
+   <item row="12" column="2">
+    <property name="text">
+     <string>10</string>
+    </property>
+   </item>
+   <item row="12" column="3">
+    <property name="text">
+     <string>8</string>
+    </property>
+   </item>
+   <item row="12" column="4">
+    <property name="text">
+     <string>14</string>
+    </property>
+   </item>
+   <item row="12" column="5">
+    <property name="text">
+     <string>11</string>
+    </property>
+   </item>
+   <item row="12" column="6">
+    <property name="text">
+     <string>8</string>
+    </property>
+   </item>
+   <item row="12" column="7">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="12" column="8">
+    <property name="text">
+     <string>10</string>
+    </property>
+   </item>
+   <item row="12" column="9">
+    <property name="text">
+     <string>8</string>
+    </property>
+   </item>
+   <item row="12" column="10">
+    <property name="text">
+     <string>13</string>
+    </property>
+   </item>
+   <item row="12" column="11">
+    <property name="text">
+     <string>8</string>
+    </property>
+   </item>
+   <item row="12" column="12">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="12" column="13">
+    <property name="text">
+     <string>20</string>
+    </property>
+   </item>
+   <item row="12" column="14">
+    <property name="text">
+     <string>12</string>
+    </property>
+   </item>
+   <item row="12" column="15">
+    <property name="text">
+     <string>7</string>
+    </property>
+   </item>
+   <item row="12" column="16">
+    <property name="text">
+     <string>11</string>
+    </property>
+   </item>
+   <item row="12" column="17">
+    <property name="text">
+     <string>9</string>
+    </property>
+   </item>
+   <item row="12" column="18">
+    <property name="text">
+     <string>12</string>
+    </property>
+   </item>
+   <item row="12" column="24">
+    <property name="text">
+     <string>26</string>
+    </property>
+   </item>
+   <item row="13" column="0">
+    <property name="text">
+     <string>Yuki Tsunoda</string>
+    </property>
+   </item>
+   <item row="13" column="1">
+    <property name="text">
+     <string>Alpha Tauri</string>
+    </property>
+   </item>
+   <item row="13" column="2">
+    <property name="text">
+     <string>9</string>
+    </property>
+   </item>
+   <item row="13" column="3">
+    <property name="text">
+     <string>12</string>
+    </property>
+   </item>
+   <item row="13" column="4">
+    <property name="text">
+     <string>15</string>
+    </property>
+   </item>
+   <item row="13" column="5">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="13" column="6">
+    <property name="text">
+     <string>16</string>
+    </property>
+   </item>
+   <item row="13" column="7">
+    <property name="text">
+     <string>7</string>
+    </property>
+   </item>
+   <item row="13" column="8">
+    <property name="text">
+     <string>13</string>
+    </property>
+   </item>
+   <item row="13" column="9">
+    <property name="text">
+     <string>10</string>
+    </property>
+   </item>
+   <item row="13" column="10">
+    <property name="text">
+     <string>12</string>
+    </property>
+   </item>
+   <item row="13" column="11">
+    <property name="text">
+     <string>10</string>
+    </property>
+   </item>
+   <item row="13" column="12">
+    <property name="text">
+     <string>6</string>
+    </property>
+   </item>
+   <item row="13" column="13">
+    <property name="text">
+     <string>15</string>
+    </property>
+   </item>
+   <item row="13" column="14">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="13" column="15">
+    <property name="text">
+     <string>NW</string>
+    </property>
+   </item>
+   <item row="13" column="16">
+    <property name="text">
+     <string>17</string>
+    </property>
+   </item>
+   <item row="13" column="17">
+    <property name="text">
+     <string>14</string>
+    </property>
+   </item>
+   <item row="13" column="18">
+    <property name="text">
+     <string>9</string>
+    </property>
+   </item>
+   <item row="13" column="24">
+    <property name="text">
+     <string>20</string>
+    </property>
+   </item>
+   <item row="14" column="0">
+    <property name="text">
+     <string>George Russell</string>
+    </property>
+   </item>
+   <item row="14" column="1">
+    <property name="text">
+     <string>Williams</string>
+    </property>
+   </item>
+   <item row="14" column="2">
+    <property name="text">
+     <string>14</string>
+    </property>
+   </item>
+   <item row="14" column="3">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="14" column="4">
+    <property name="text">
+     <string>16</string>
+    </property>
+   </item>
+   <item row="14" column="5">
+    <property name="text">
+     <string>14</string>
+    </property>
+   </item>
+   <item row="14" column="6">
+    <property name="text">
+     <string>14</string>
+    </property>
+   </item>
+   <item row="14" column="7">
+    <property name="text">
+     <string>17</string>
+    </property>
+   </item>
+   <item row="14" column="8">
+    <property name="text">
+     <string>12</string>
+    </property>
+   </item>
+   <item row="14" column="9">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="14" column="10">
+    <property name="text">
+     <string>11</string>
+    </property>
+   </item>
+   <item row="14" column="11">
+    <property name="text">
+     <string>12</string>
+    </property>
+   </item>
+   <item row="14" column="12">
+    <property name="text">
+     <string>8</string>
+    </property>
+   </item>
+   <item row="14" column="13">
+    <property name="text">
+     <string>2</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="SolidPattern">
+      <color alpha="255">
+       <red>136</red>
+       <green>136</green>
+       <blue>136</blue>
+      </color>
+     </brush>
+    </property>
+   </item>
+   <item row="14" column="14">
+    <property name="text">
+     <string>17</string>
+    </property>
+   </item>
+   <item row="14" column="15">
+    <property name="text">
+     <string>9</string>
+    </property>
+   </item>
+   <item row="14" column="16">
+    <property name="text">
+     <string>10</string>
+    </property>
+   </item>
+   <item row="14" column="17">
+    <property name="text">
+     <string>15</string>
+    </property>
+   </item>
+   <item row="14" column="18">
+    <property name="text">
+     <string>14</string>
+    </property>
+   </item>
+   <item row="14" column="24">
+    <property name="text">
+     <string>16</string>
+    </property>
+   </item>
+   <item row="15" column="0">
+    <property name="text">
+     <string>Nicholas Latifi</string>
+    </property>
+   </item>
+   <item row="15" column="1">
+    <property name="text">
+     <string>Williams</string>
+    </property>
+   </item>
+   <item row="15" column="2">
+    <property name="text">
+     <string>18</string>
+    </property>
+   </item>
+   <item row="15" column="3">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="15" column="4">
+    <property name="text">
+     <string>18</string>
+    </property>
+   </item>
+   <item row="15" column="5">
+    <property name="text">
+     <string>16</string>
+    </property>
+   </item>
+   <item row="15" column="6">
+    <property name="text">
+     <string>15</string>
+    </property>
+   </item>
+   <item row="15" column="7">
+    <property name="text">
+     <string>16</string>
+    </property>
+   </item>
+   <item row="15" column="8">
+    <property name="text">
+     <string>18</string>
+    </property>
+   </item>
+   <item row="15" column="9">
+    <property name="text">
+     <string>17</string>
+    </property>
+   </item>
+   <item row="15" column="10">
+    <property name="text">
+     <string>16</string>
+    </property>
+   </item>
+   <item row="15" column="11">
+    <property name="text">
+     <string>14</string>
+    </property>
+   </item>
+   <item row="15" column="12">
+    <property name="text">
+     <string>7</string>
+    </property>
+   </item>
+   <item row="15" column="13">
+    <property name="text">
+     <string>9</string>
+    </property>
+   </item>
+   <item row="15" column="14">
+    <property name="text">
+     <string>16</string>
+    </property>
+   </item>
+   <item row="15" column="15">
+    <property name="text">
+     <string>11</string>
+    </property>
+   </item>
+   <item row="15" column="16">
+    <property name="text">
+     <string>19</string>
+    </property>
+   </item>
+   <item row="15" column="17">
+    <property name="text">
+     <string>17</string>
+    </property>
+   </item>
+   <item row="15" column="18">
+    <property name="text">
+     <string>15</string>
+    </property>
+   </item>
+   <item row="15" column="24">
+    <property name="text">
+     <string>7</string>
+    </property>
+   </item>
+   <item row="16" column="0">
+    <property name="text">
+     <string>Kimi Raikkonen</string>
+    </property>
+   </item>
+   <item row="16" column="1">
+    <property name="text">
+     <string>Alfa Romeo</string>
+    </property>
+   </item>
+   <item row="16" column="2">
+    <property name="text">
+     <string>11</string>
+    </property>
+   </item>
+   <item row="16" column="3">
+    <property name="text">
+     <string>13</string>
+    </property>
+   </item>
+   <item row="16" column="4">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="16" column="5">
+    <property name="text">
+     <string>12</string>
+    </property>
+   </item>
+   <item row="16" column="6">
+    <property name="text">
+     <string>11</string>
+    </property>
+   </item>
+   <item row="16" column="7">
+    <property name="text">
+     <string>10</string>
+    </property>
+   </item>
+   <item row="16" column="8">
+    <property name="text">
+     <string>17</string>
+    </property>
+   </item>
+   <item row="16" column="9">
+    <property name="text">
+     <string>11</string>
+    </property>
+   </item>
+   <item row="16" column="10">
+    <property name="text">
+     <string>15</string>
+    </property>
+   </item>
+   <item row="16" column="11">
+    <property name="text">
+     <string>15</string>
+    </property>
+   </item>
+   <item row="16" column="12">
+    <property name="text">
+     <string>10</string>
+    </property>
+   </item>
+   <item row="16" column="13">
+    <property name="text">
+     <string>18</string>
+    </property>
+   </item>
+   <item row="16" column="14">
+    <property name="text">
+     <string>WD</string>
+    </property>
+   </item>
+   <item row="16" column="15">
+    <property name="text">
+     <string>WD</string>
+    </property>
+   </item>
+   <item row="16" column="16">
+    <property name="text">
+     <string>8</string>
+    </property>
+   </item>
+   <item row="16" column="17">
+    <property name="text">
+     <string>12</string>
+    </property>
+   </item>
+   <item row="16" column="18">
+    <property name="text">
+     <string>13</string>
+    </property>
+   </item>
+   <item row="16" column="24">
+    <property name="text">
+     <string>6</string>
+    </property>
+   </item>
+   <item row="17" column="0">
+    <property name="text">
+     <string>Antonio Giovinazzi</string>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>7</pointsize>
+     </font>
+    </property>
+   </item>
+   <item row="17" column="1">
+    <property name="text">
+     <string>Alfa Romeo</string>
+    </property>
+   </item>
+   <item row="17" column="2">
+    <property name="text">
+     <string>12</string>
+    </property>
+   </item>
+   <item row="17" column="3">
+    <property name="text">
+     <string>14</string>
+    </property>
+   </item>
+   <item row="17" column="4">
+    <property name="text">
+     <string>12</string>
+    </property>
+   </item>
+   <item row="17" column="5">
+    <property name="text">
+     <string>15</string>
+    </property>
+   </item>
+   <item row="17" column="6">
+    <property name="text">
+     <string>10</string>
+    </property>
+   </item>
+   <item row="17" column="7">
+    <property name="text">
+     <string>11</string>
+    </property>
+   </item>
+   <item row="17" column="8">
+    <property name="text">
+     <string>15</string>
+    </property>
+   </item>
+   <item row="17" column="9">
+    <property name="text">
+     <string>15</string>
+    </property>
+   </item>
+   <item row="17" column="10">
+    <property name="text">
+     <string>14</string>
+    </property>
+   </item>
+   <item row="17" column="11">
+    <property name="text">
+     <string>13</string>
+    </property>
+   </item>
+   <item row="17" column="12">
+    <property name="text">
+     <string>13</string>
+    </property>
+   </item>
+   <item row="17" column="13">
+    <property name="text">
+     <string>13</string>
+    </property>
+   </item>
+   <item row="17" column="14">
+    <property name="text">
+     <string>14</string>
+    </property>
+   </item>
+   <item row="17" column="15">
+    <property name="text">
+     <string>13</string>
+    </property>
+   </item>
+   <item row="17" column="16">
+    <property name="text">
+     <string>16</string>
+    </property>
+   </item>
+   <item row="17" column="17">
+    <property name="text">
+     <string>11</string>
+    </property>
+   </item>
+   <item row="17" column="18">
+    <property name="text">
+     <string>11</string>
+    </property>
+   </item>
+   <item row="17" column="24">
+    <property name="text">
+     <string>1</string>
+    </property>
+   </item>
+   <item row="18" column="0">
+    <property name="text">
+     <string>Mick Schumacher</string>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>7</pointsize>
+     </font>
+    </property>
+   </item>
+   <item row="18" column="1">
+    <property name="text">
+     <string>HAAS</string>
+    </property>
+   </item>
+   <item row="18" column="2">
+    <property name="text">
+     <string>16</string>
+    </property>
+   </item>
+   <item row="18" column="3">
+    <property name="text">
+     <string>16</string>
+    </property>
+   </item>
+   <item row="18" column="4">
+    <property name="text">
+     <string>17</string>
+    </property>
+   </item>
+   <item row="18" column="5">
+    <property name="text">
+     <string>18</string>
+    </property>
+   </item>
+   <item row="18" column="6">
+    <property name="text">
+     <string>18</string>
+    </property>
+   </item>
+   <item row="18" column="7">
+    <property name="text">
+     <string>13</string>
+    </property>
+   </item>
+   <item row="18" column="8">
+    <property name="text">
+     <string>19</string>
+    </property>
+   </item>
+   <item row="18" column="9">
+    <property name="text">
+     <string>16</string>
+    </property>
+   </item>
+   <item row="18" column="10">
+    <property name="text">
+     <string>18</string>
+    </property>
+   </item>
+   <item row="18" column="11">
+    <property name="text">
+     <string>18</string>
+    </property>
+   </item>
+   <item row="18" column="12">
+    <property name="text">
+     <string>12</string>
+    </property>
+   </item>
+   <item row="18" column="13">
+    <property name="text">
+     <string>16</string>
+    </property>
+   </item>
+   <item row="18" column="14">
+    <property name="text">
+     <string>18</string>
+    </property>
+   </item>
+   <item row="18" column="15">
+    <property name="text">
+     <string>15</string>
+    </property>
+   </item>
+   <item row="18" column="16">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="18" column="17">
+    <property name="text">
+     <string>19</string>
+    </property>
+   </item>
+   <item row="18" column="18">
+    <property name="text">
+     <string>16</string>
+    </property>
+   </item>
+   <item row="18" column="24">
+    <property name="text">
+     <string>0</string>
+    </property>
+   </item>
+   <item row="19" column="0">
+    <property name="text">
+     <string>Nikita Mazepin</string>
+    </property>
+   </item>
+   <item row="19" column="1">
+    <property name="text">
+     <string>HAAS</string>
+    </property>
+   </item>
+   <item row="19" column="2">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="19" column="3">
+    <property name="text">
+     <string>17</string>
+    </property>
+   </item>
+   <item row="19" column="4">
+    <property name="text">
+     <string>19</string>
+    </property>
+   </item>
+   <item row="19" column="5">
+    <property name="text">
+     <string>19</string>
+    </property>
+   </item>
+   <item row="19" column="6">
+    <property name="text">
+     <string>17</string>
+    </property>
+   </item>
+   <item row="19" column="7">
+    <property name="text">
+     <string>14</string>
+    </property>
+   </item>
+   <item row="19" column="8">
+    <property name="text">
+     <string>20</string>
+    </property>
+   </item>
+   <item row="19" column="9">
+    <property name="text">
+     <string>18</string>
+    </property>
+   </item>
+   <item row="19" column="10">
+    <property name="text">
+     <string>19</string>
+    </property>
+   </item>
+   <item row="19" column="11">
+    <property name="text">
+     <string>17</string>
+    </property>
+   </item>
+   <item row="19" column="12">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="19" column="13">
+    <property name="text">
+     <string>17</string>
+    </property>
+   </item>
+   <item row="19" column="14">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="19" column="15">
+    <property name="text">
+     <string>NU</string>
+    </property>
+   </item>
+   <item row="19" column="16">
+    <property name="text">
+     <string>18</string>
+    </property>
+   </item>
+   <item row="19" column="17">
+    <property name="text">
+     <string>20</string>
+    </property>
+   </item>
+   <item row="19" column="18">
+    <property name="text">
+     <string>17</string>
+    </property>
+   </item>
+   <item row="19" column="24">
+    <property name="text">
+     <string>0</string>
+    </property>
+   </item>
+  </widget>
+ </widget>
+ <resources>
+  <include location="Zdjecia.qrc"/>
+  <include location="Zdjecia.qrc"/>
+ </resources>
+ <connections/>
+</ui>
