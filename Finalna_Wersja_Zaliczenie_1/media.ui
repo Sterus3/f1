@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Media</class>
+ <widget class="QDialog" name="Media">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>366</width>
+    <height>92</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>366</width>
+    <height>92</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>366</width>
+    <height>92</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Oficjalne Media</string>
+  </property>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>81</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset resource="Zdjecia.qrc">
+     <normaloff>:/new/prefix1/Zdjecia/f164.png</normaloff>:/new/prefix1/Zdjecia/f164.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>64</width>
+     <height>64</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>10</y>
+     <width>81</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset resource="Zdjecia.qrc">
+     <normaloff>:/new/prefix1/Zdjecia/124010.png</normaloff>:/new/prefix1/Zdjecia/124010.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>64</width>
+     <height>64</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>10</y>
+     <width>81</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset resource="Zdjecia.qrc">
+     <normaloff>:/new/prefix1/Zdjecia/1590430652red-youtube-logo-png-xl.png</normaloff>:/new/prefix1/Zdjecia/1590430652red-youtube-logo-png-xl.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>64</width>
+     <height>64</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_4">
+   <property name="geometry">
+    <rect>
+     <x>280</x>
+     <y>10</y>
+     <width>81</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset resource="Zdjecia.qrc">
+     <normaloff>:/new/prefix1/Zdjecia/twitter-logo-vector-png-clipart-1.png</normaloff>:/new/prefix1/Zdjecia/twitter-logo-vector-png-clipart-1.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>64</width>
+     <height>64</height>
+    </size>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="Zdjecia.qrc"/>
+  <include location="Zdjecia.qrc"/>
+ </resources>
+ <connections/>
+</ui>
