@@ -1,0 +1,72 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Zdjecia/56x56.png</file>
+        <file>Zdjecia/1024px-Austin_circuit.svg.png</file>
+        <file>Zdjecia/124010.png</file>
+        <file>Zdjecia/1590430652red-youtube-logo-png-xl.png</file>
+        <file>Zdjecia/1610642928926.png</file>
+        <file>Zdjecia/Alfaracing.png</file>
+        <file>Zdjecia/Alpine_F1_Team_Logo.svg.png</file>
+        <file>Zdjecia/Austin.png</file>
+        <file>Zdjecia/F1.svg.png</file>
+        <file>Zdjecia/f11.jpg</file>
+        <file>Zdjecia/f12.jpg</file>
+        <file>Zdjecia/f13.jpg</file>
+        <file>Zdjecia/f14.jpg</file>
+        <file>Zdjecia/f164.png</file>
+        <file>Zdjecia/F1500.png</file>
+        <file>Zdjecia/f14128.jpg</file>
+        <file>Zdjecia/f14164.jpg</file>
+        <file>Zdjecia/Ferrari.png</file>
+        <file>Zdjecia/Logo_Williams_F1.png</file>
+        <file>Zdjecia/mclaren-f1-team-logo-1.jpg</file>
+        <file>Zdjecia/Mercedes.png</file>
+        <file>Zdjecia/Red Bull.jpg</file>
+        <file>Zdjecia/Scuderia_Alpha-Tauri.svg.png</file>
+        <file>Zdjecia/twitter-logo-vector-png-clipart-1.png</file>
+        <file>Zdjecia/Uralkali_Haas_F1_Team_Logo.svg.png</file>
+        <file>Zdjecia/Lewis Hamilton.txt</file>
+        <file>Zdjecia/Valteri Bottas.txt</file>
+        <file>Zdjecia.qrc</file>
+        <file>Zdjecia/Max Verstappen.txt</file>
+        <file>Zdjecia/Sergio Perez.txt</file>
+        <file>Zdjecia/Lando Norris.txt</file>
+        <file>Zdjecia/Daniel Riccardo.txt</file>
+        <file>Zdjecia/Sebastian Vettel.txt</file>
+        <file>Zdjecia/Lance Stroll.txt</file>
+        <file>Zdjecia/Charles Leclerc.txt</file>
+        <file>Zdjecia/Carlos Sainz.txt</file>
+        <file>Zdjecia/Fernando Alonso.txt</file>
+        <file>Zdjecia/Esteban Ocon.txt</file>
+        <file>Zdjecia/Pierre Gasly.txt</file>
+        <file>Zdjecia/Yuki Tsunoda.txt</file>
+        <file>Zdjecia/Kimi Raikkonen.txt</file>
+        <file>Zdjecia/Antonio Giovinazzi.txt</file>
+        <file>Zdjecia/George Russell.txt</file>
+        <file>Zdjecia/Nicholas Latifi.txt</file>
+        <file>Zdjecia/Mick Schumacher.txt</file>
+        <file>Zdjecia/Nikita Mazepin.txt</file>
+        <file>Zdjecia/GP Meksyku.png</file>
+        <file>Zdjecia/Gp Meksyku-drs.png</file>
+        <file>Zdjecia/ae.jpg</file>
+        <file>Zdjecia/at.jpg</file>
+        <file>Zdjecia/az.jpg</file>
+        <file>Zdjecia/bh.jpg</file>
+        <file>Zdjecia/br.jpg</file>
+        <file>Zdjecia/es.jpg</file>
+        <file>Zdjecia/fr.jpg</file>
+        <file>Zdjecia/gb.jpg</file>
+        <file>Zdjecia/hu.jpg</file>
+        <file>Zdjecia/it.jpg</file>
+        <file>Zdjecia/mc.jpg</file>
+        <file>Zdjecia/mx.jpg</file>
+        <file>Zdjecia/pt.jpg</file>
+        <file>Zdjecia/qa.jpg</file>
+        <file>Zdjecia/ru.jpg</file>
+        <file>Zdjecia/sa.jpg</file>
+        <file>Zdjecia/tr.jpg</file>
+        <file>Zdjecia/us.jpg</file>
+        <file>Zdjecia/be.jpg</file>
+        <file>Zdjecia/nl.jpg</file>
+    </qresource>
+</RCC>
